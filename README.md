@@ -21,5 +21,5 @@ I love learning, so if you have any tips & tricks for me, feel free to reach out
 Some fun facts about me is that I love sports and have always been physically active throughout my childhood. I've been going to the gym consistently 6x a week for over 3 years now. Along side weightlifting, I have been on my schools Varsity Ultimate Team for 4 years. I am currently on the University of Waterloo Varsity Womens team! Prior to Ultimate Frisbee, I was on the Track & Field team for 7 years.
 
 📫 Connect with me: 
-Linkedin:
+Linkedin: www.linkedin.com/in/mandypengg
 Email: mandypeng2007work@gmail.com
