@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👋 About Me:
 I'm Mandy, a Computer Science student at the University of Waterloo currently in my 1B term.<br><br>I love learning, so if you have any tips for me, feel free to reach out! I'm currently learning JavaScript, and strengthening my knowledge in HTML/CSS.<br><br>Some fun facts about me is that I love sports and have always been physically active throughout my childhood. I've been going to the gym consistently 6x a week for over 3 years now. Along side weightlifting, I have been on my schools Varsity Ultimate Team for 4 years. I am currently on the University of Waterloo Varsity Womens team!<br><br>
 
 
