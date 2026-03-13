@@ -1,6 +1,5 @@
 # 👋 About Me:
-I'm Mandy, a Computer Science student at the University of Waterloo currently in my 1B term.<br><br>I love learning, so if you have any tips for me, feel free to reach out!<br><br>Some fun facts about me is that I love sports and have always been physically active throughout my childhood. I've been going to the gym consistently 6x a week for over 3 years now. Along side weightlifting, I have been on my schools Varsity Ultimate Team for 4 years. I am currently on the University of Waterloo Varsity Womens team!<br><br>
-
+I'm Mandy, a Computer Science student @ University of Waterloo.<br><br>I love learning, so if you have any tips for me, feel free to reach out! 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mandypengg) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mandypeng2007work@gmail.com) 
