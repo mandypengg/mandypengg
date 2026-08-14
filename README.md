@@ -11,7 +11,7 @@ projects:
 
 hobbies:
 -   bodybuilding 
--   ultimate frisbee (on the university of waterloo varsity women's team!)
+-   ultimate frisbee (on uwaterloo's varsity women's team!)
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mandypengg) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mandypeng2007work@gmail.com) 
