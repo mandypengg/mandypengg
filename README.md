@@ -2,16 +2,11 @@
 
 about me:
 - cs @ uwaterloo
-- AI engineering intern @ NorthOak
 
 projects:
 -   bpe tokenizer from scratch
 -   autograd engine + MNIST
 -   transformer inference engine in c++ (work in progress)
-
-hobbies:
--   bodybuilding 
--   ultimate frisbee (on uwaterloo's varsity women's team!)
 
 socials:
 
