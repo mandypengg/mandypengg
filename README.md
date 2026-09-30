@@ -6,7 +6,6 @@ about me:
 projects:
 -   bpe tokenizer from scratch
 -   autograd engine + MNIST
--   transformer inference engine in c++ (work in progress)
 
 socials:
 
